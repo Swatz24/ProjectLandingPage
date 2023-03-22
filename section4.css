@@ -31,3 +31,8 @@ footer{
   background-color: #1F2937;
    text-align: center;
 }
+footer p{
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
